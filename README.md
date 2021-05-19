@@ -1,4 +1,5 @@
-#About Hyperskill
+# About Hyperskill
+## Learn by doing
 
 We believe in project-based learning and want to help
 people feel the magic of programming from day one by
